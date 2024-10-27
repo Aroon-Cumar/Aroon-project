@@ -733,8 +733,8 @@ section{
     .about .deco-title{
         color: white;
         display:none;
-        font-size: 1rem;
-        font-weight: 500;
+        font-size: 0;
+        font-weight: 0;
         text-align: center;
         white-space: none;
         -webkit-text-fill-color:white;
